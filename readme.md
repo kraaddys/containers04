@@ -17,7 +17,7 @@
 
 **1. Создайте репозиторий `containers04` и склонируйте его себе на компьютер.**
 
-    ![image](https://i.imgur.com/kJEuuoF.jpeg)
+![image](https://i.imgur.com/kJEuuoF.jpeg)
 
 **2. Откройте терминал в папке `containers04` и выполните команду:**
 
