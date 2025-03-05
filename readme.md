@@ -128,4 +128,4 @@ docker rm containers04
 - [Официальная документация Apache HTTP Server](https://httpd.apache.org/docs/) - Руководство по установке, настройке и администрированию веб-сервера Apache.
 - [DigitalOcean – руководство по установке Apache в Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-and-use-apache-on-ubuntu) - Подробная статья о развертывании Apache внутри Docker-контейнера.
 - [Medium – практические статьи по Docker](https://medium.com/tag/docker) - Различные кейсы и туториалы по работе с Docker.
-- [Medium – практические статьи по Apache](https://medium.com/tag/apache) - Различные кейсы и туториалы по работе с Docker и веб-сервером Apache.
+- [Medium – практические статьи по Apache](https://medium.com/tag/apache) - Различные кейсы и туториалы по работе c веб-сервером Apache.
