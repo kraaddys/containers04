@@ -80,7 +80,7 @@ echo '<h1>Hello, World!</h1>' > /var/www/html/index.html
 <h1>Hello, World!</h1>
 ```
 
-![image](https://i.imgur.com/oiWWGxb.jpeg)
+![image](https://i.imgur.com/qM59Dhi.jpeg)
 
 **7. Выполните следующие команды:**
 
